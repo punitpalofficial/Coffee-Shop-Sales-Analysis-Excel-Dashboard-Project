@@ -154,12 +154,6 @@ Review pricing, promotion strategies, and customer demographics for Lower Manhat
 
 ---
 
-## 📁 **8. Project Folder Structure**
-
-
-
----
-
 ## 🚀 **9. How to Use This Project**
 
 1. Download the **Dashboard.xlsx** file  
