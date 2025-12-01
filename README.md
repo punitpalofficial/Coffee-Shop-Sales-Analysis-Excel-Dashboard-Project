@@ -102,9 +102,11 @@ Below are the main components of the Coffee Shop Sales Dashboard:
 6. Orders on Weekdays — Column Chart  
 
 ### **🖼 Dashboard Preview**
-  ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+<p align="center">
+  <img src="dashboard_preview.png" width="800">
+</p>
+
 
 
 
