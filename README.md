@@ -154,7 +154,7 @@ Review pricing, promotion strategies, and customer demographics for Lower Manhat
 
 ---
 
-## 🚀 **9. How to Use This Project**
+## 🚀 **8. How to Use This Project**
 
 1. Download the **Dashboard.xlsx** file  
 2. Use slicers to filter by **Month** and **Day**  
@@ -163,7 +163,7 @@ Review pricing, promotion strategies, and customer demographics for Lower Manhat
 
 ---
 
-## 🔮 **10. Future Improvements**
+## 🔮 **9. Future Improvements**
 
 - Build an interactive **Power BI version**  
 - Add customer segmentation  
@@ -172,7 +172,7 @@ Review pricing, promotion strategies, and customer demographics for Lower Manhat
 
 ---
 
-## 🙌 **11. About This Project**
+## 🙌 **10. About This Project**
 
 This project was created as part of Data Analytics learning using the Maven Analytics dataset.  
 Prepared and documented by **Punit Pal**.
